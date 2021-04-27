@@ -5,7 +5,7 @@
   "main": "indix.js",
   "author": "",
   "scripts": {
-    "start": "nodemon indix.js"
+    "start": "node indix.js"
   },
   "keywords": [],
   "license": "ISC",
