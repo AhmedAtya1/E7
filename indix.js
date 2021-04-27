@@ -217,7 +217,7 @@ app.delete('/api/students/:id', (req, res) => {
 });
 
 // Environment variable
-const port = process.env.port || 2000
+const port = process.env.port || 3000;
 
 app.listen(port /*PortNumber*/, host, () => console.log(`Listeneing on port ${port}......`) /* optionally a function that called when the app starts listening to the given port */);
 
