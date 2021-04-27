@@ -1,0 +1,17 @@
+{
+  "name": "e7",
+  "version": "0.0.0",
+  "description": "E7",
+  "main": "indix.js",
+  "author": "",
+  "scripts": {
+    "start": "nodemon indix.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  }
+}
